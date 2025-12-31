@@ -8,13 +8,7 @@
   <img width="1366" height="768" alt="Screenshot 1" src="https://github.com/user-attachments/assets/f29e5509-f42c-4ec5-b2a4-9f03f1606715" />
 </p>
 
-<p align="center">
-  <img width="1366" height="768" alt="Screenshot 2" src="https://github.com/user-attachments/assets/1e5468c0-02d1-492e-842d-afd1b9d05556" />
-</p>
 
-<p align="center">
-  <img width="1366" height="768" alt="Screenshot 3" src="https://github.com/user-attachments/assets/7915bd2e-de1c-4e60-a2f6-fc254e8adc56" />
-</p>
 
 **Malas-Nganggur** adalah aplikasi desktop untuk membuat **CV ATS-friendly** dengan cepat dan mudah.  
 Cukup masukkan data pribadi, pengalaman kerja, pendidikan, dan skill, lalu aplikasi akan menghasilkan CV yang mudah dibaca oleh sistem rekrutmen otomatis (ATS).
